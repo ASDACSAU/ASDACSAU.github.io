@@ -20,9 +20,7 @@ body {
     padding-top: 20px;
 }
 /* Primary button colour */
-.greenid-so-content #greenid-container .btw-primary,
-.greenid-so-content #greenid-container[data-eq-state~="xsmall"] .btn-primary,
-#greenid-biometric-content .greenid-so-content #greenid-container #webscanRoot .button.button--primary
+.greenid-so-content #greenid-container .btn-primary
 {
     background-color: #3f664a;
 	border-radius: 999px;
