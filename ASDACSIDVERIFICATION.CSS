@@ -30,13 +30,6 @@ body {
 {
     color: #3f664a;
 }
-/*background box*/
-.well
-{
-    background-color: #a8d382;
-    border: 2px solid gray;
-    border-radius: 25px;
-}
 /* Fields styling, for data entry forms */
 .greenid-so-content #greenid-container label
 {
