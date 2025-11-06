@@ -1,35 +1,42 @@
+/* 1 */
 /*Adjust margins to make background colours work*/
 body {
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
 }
+/* 2 */
 /*change footer body colour*/
 body {
     background-color: #3f664a;
 }
+/* 3 */
 /*Change banner colour and logo padding*/
 #greenid-hosted-logo {
     padding: 12px 30px 12px 16px;
     background: #3f664a;
 }
+/* 4 */
 /* Page footer colour */
 #greenid-hosted-powered-by-gbg {
     background: #3f664a;
     padding-top: 20px;
 }
+/* 5 */
 /* Primary button colour */
 .greenid-so-content #greenid-container .btn-primary
 {
     background-color: #3f664a;
 	border-radius: 999px;
 }
+/* 5 */
 /* The 'help' icons on data entry forms */
 #greenid-container #greenid-source-header #greenid-source-title a .glyphicon,
 #greenid-container .greenid-helpicon, #greenid-container .greenid-helpicon-alt
 {
     color: #3f664a;
 }
+/* 6 */
 /*background box*/
 .well
 {
