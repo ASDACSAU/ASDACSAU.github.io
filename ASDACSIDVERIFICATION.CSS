@@ -54,3 +54,10 @@ body {
 {
 	border-radius:999px
 }
+/* 9 */
+/* secondary pop up button */
+.greenid-so-content #greenid-container .greenid-modal .btn-default,
+{
+	border-radius: 999px;
+	min-width: 115px;
+}
